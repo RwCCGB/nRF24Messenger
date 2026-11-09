@@ -1,0 +1,31 @@
+
+# .NET build output
+bin/
+obj/
+publish/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code local settings
+.vscode/
+
+# Test results
+TestResults/
+coverage/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+Thumbs.db
+.DS_Store
